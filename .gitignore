@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Remotion
+.remotion/
+out/
+
+# Production
+dist/
+build/
+
+# Misc
+.DS_Store
+Thumbs.db
+.env
+
+# Renders
+*.mp4
+!public/*.mp4
